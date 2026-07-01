@@ -1,0 +1,6 @@
+{
+  "name": "Task Manager",
+  "description": "A clean, responsive CRUD-based task manager for organizing personal and work tasks with search, category filtering, priority markers, and completion tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
